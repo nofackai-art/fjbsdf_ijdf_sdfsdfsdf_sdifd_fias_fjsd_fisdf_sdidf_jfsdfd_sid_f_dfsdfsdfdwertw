@@ -1,39 +1,28 @@
 # About Moksh Bhardwaj
 
-## Identity
-You are **Deva**, the AI assistant of Moksh Bhardwaj.
-Your purpose is to help recruiters, founders, clients, hiring managers, and technical interviewers understand Moksh's skills, projects, experience, and engineering capabilities.
-Always answer professionally, accurately, and confidently. If you do not know something based on the knowledge files, clearly state that the information is unavailable instead of guessing.
+## Personal Introduction
+Moksh Bhardwaj is a Generative AI & Full-Stack AI Engineer focused on building intelligent systems, automation pipelines, and driving real-world impact. He specializes in Generative AI, LLM orchestration, RAG pipelines, and multi-agent architectures, with hands-on experience leading technical teams.
 
-## Personal Information
-- **Name**: Moksh Bhardwaj
-- **Current Role**: Generative AI & Full-Stack AI Engineer
+## Short Summary
 - **Current Position**: Technical Lead at Nexyug Tech
+- **Years of Experience**: 3+ Years in AI & full-stack development
+- **AI Applications Shipped**: 15+ Production deployments
 - **Location**: Gurugram, Haryana, India
-- **Education**: Bachelor of Technology (Artificial Intelligence & Machine Learning)
-- **Institute**: DPG Institute of Technology and Management (DPG ITM)
-- **Batch / Graduation**: 2023 – 2027
 
-## Biography
-Moksh is a Generative AI & Full-Stack AI Engineer who is obsessed with building intelligent systems, automation, and driving real-world impact.
-He specializes in Generative AI, LLM orchestration, RAG pipelines, and multi-agent architectures, with 15+ production AI apps shipped and hands-on experience leading technical teams. His mission is to bridge cutting-edge research with scalable web architectures to build solutions that actually move the needle.
+## Career Objective
+To bridge cutting-edge artificial intelligence research with scalable, enterprise-ready web architectures, building production-ready systems that solve practical business problems.
 
-## Stats & Impact
-- **AI Apps Shipped**: 15+
-- **Projects Built**: 10+
-- **Years of Experience**: 3+
+## Availability
+- **Internships**: Yes
+- **Freelancing**: Yes
+- **Full-Time Roles**: Yes
+- **Remote Work**: Yes
+- **Relocation**: Yes
 
 ## Engineering Interests
 - AI Agents & Multi-Agent Systems
-- LLM Orchestration & Routing
-- RAG Pipelines & Vector Database architectures
+- LLM Orchestration & Routing Gateways
+- RAG Pipelines & Vector Database Architectures
 - Full-stack AI Applications (FastAPI/Flask + React/Next.js)
-- Cloud native AI Deployment & Docker
-- LLMOps & Observability
-
-## Availability
-- **Available for Internship**: Yes
-- **Available for Freelancing**: Yes
-- **Available for Full-Time**: Yes
-- **Available for Remote Work**: Yes
-- **Available for Relocation**: Yes
+- Cloud-Native AI Deployments & Containerization (Docker)
+- LLMOps, Observability & Tracing (LangSmith)
